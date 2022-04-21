@@ -14,8 +14,9 @@
 
 ## About the Project
 
-This project is a fully responsive one page theme. We have a fixed customized navbar with a logo at the top, after that there is a home container which is a main show case area with a background image. This section containes some texts and an image. After home section there is a newsletter section with a line form and there are four boxes. Under this section, we have a different section that contains a title, some texts and vertically collapsed accordions which can be opened and closed. Next, we have "Meet the Authors" section where there are some images over cards, we can hover over these to change the color. After that, we have a contact form where we use input groups. Finally, there is a footer at the end of the page. 
-
+This project is a fully responsive one page theme. We have a fixed customized navbar with a logo at the top; for smooth scrolling we used JQuery block in this navigation bar. After that, there is a home container which is a main show case area with a background image. This section containes some texts and an image. After home section there is a newsletter section with a line form and there are four boxes. Under this section, we have a different section that contains a title, some texts and vertically collapsed accordions which can be opened and closed. Next, we have "Meet the Authors" section where there are some images over cards, we can hover over these to change the color. After that, we have a contact form where we use input groups. Finally, there is a footer at the end of the page.
+Moreover, in this project we used Sass, CSS precompiler, that allows us to do things like use variables, nesting and we can edit the bootstrap. 
+Last important thing is that we used an application "Koala" for compaling our Sass; Koala is a GUI application for Less, Sass, Compass and CoffeeScript compilation, to help web developers to use them more efficiently.
 ## Techniques Used 
 
 We add a navigation menu to the navigation bar using an unordered list of clickable list items with different "IDs". We use a button for the navigation menu so that the navigation menu is properly displayed on the small screen.
