@@ -14,7 +14,7 @@
 
 ## About the Project
 
-This project is a fully responsive social media type site. We have a fixed navbar at the top, after that there is a home container which is a main show case area with a background image. This section containes the texts with icons and a form. After home section there are 3 sections (explore, create and share) that each of them a header and body section. Finally, there is a footer at the end of the page. 
+This project is a fully responsive one page theme. We have a fixed customized navbar with a logo at the top, after that there is a home container which is a main show case area with a background image. This section containes some texts and an image. After home section there is a newsletter section with a line form and there are four boxes. Under this section, we have a different section that contains a title, some texts and vertically collapsed accordions which can be opened and closed. Next, we have "Meet the Authors" section where there are some images over cards, we can hover over these to change the color. After that, we have a contact form where we use input groups. Finally, there is a footer at the end of the page. 
 
 ## Techniques Used 
 
