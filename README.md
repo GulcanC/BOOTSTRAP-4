@@ -16,10 +16,11 @@
 
 This project is a fully responsive one page theme. We have a fixed customized navbar with a logo at the top; for smooth scrolling we used JQuery block in this navigation bar. After that, there is a home container which is a main show case area with a background image. This section containes some texts and an image. After home section there is a newsletter section with a line form and there are four boxes. Under this section, we have a different section that contains a title, some texts and vertically collapsed accordions which can be opened and closed. Next, we have "Meet the Authors" section where there are some images over cards, we can hover over these to change the color. After that, we have a contact form where we use input groups. Finally, there is a footer at the end of the page.
 Moreover, in this project we used Sass, CSS precompiler, that allows us to do things like use variables, nesting and we can edit the bootstrap. 
-Last important thing is that we used an application "Koala" for compaling our Sass; Koala is a GUI application for Less, Sass, Compass and CoffeeScript compilation, to help web developers to use them more efficiently.
+Last important thing is that we used an application **Koala** for compaling our Sass; Koala is a GUI application for Less, Sass, Compass and CoffeeScript compilation, to help web developers to use them more efficiently.
 ## Techniques Used 
 
-I started to the project by installing the application Koala, and downloading Bootstrap. Bootstrap source files have all scss files as well. I take all bootstrap scss files and add them to my own scss folder.
+I started to the project by installing the application Koala, and downloading Bootstrap. Bootstrap source files have all scss files as well. I take all bootstrap scss files and add them inside my own scss folder. Next, I add my project to tha Koala App, here I decide what I want to compile and where it should go. I want to compile **bootstrap.scss** file and **style.scss** file inside **scss** folder. When I wright click on the bootstrap.scss file and style.scss file, I see **set output path**, I click that and I want to set the output to go to the regular **css folder**. To this folder I add **bootstrap.css** and **style.css** files. If they are already exist I have to replace them. Thus, these two sass files will get compiled to **bootstrap.css** and **style.css**. When we manually compile this files, I will see my bootstrap.css and style.css files inside css folder. When I open the folder in VSCode, I see **_variables.scss** file where I can make all the cahnges to customize my project. 
+
 
 
 
