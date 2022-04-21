@@ -10,7 +10,7 @@
 
 🌸 Learn semantic HTML5 & modern CSS3 techniques
 
-🌸 Using CSS Preprocessor Program "Sass", "Syntactically Awesom Style Sheets"
+🌸 Using CSS Preprocessor Program "Sass", "Syntactically Awesom Style Sheets", with Bootstrap
 
 ## About the Project
 
@@ -18,6 +18,19 @@ This project is a fully responsive one page theme. We have a fixed customized na
 Moreover, in this project we used Sass, CSS precompiler, that allows us to do things like use variables, nesting and we can edit the bootstrap. 
 Last important thing is that we used an application "Koala" for compaling our Sass; Koala is a GUI application for Less, Sass, Compass and CoffeeScript compilation, to help web developers to use them more efficiently.
 ## Techniques Used 
+
+I started to the project by installing the application Koala, and downloading Bootstrap. Bootstrap source files have all scss files as well. I take all bootstrap scss files and add them to my own scss folder.
+
+
+
+
+
+
+
+
+
+
+
 
 We add a navigation menu to the navigation bar using an unordered list of clickable list items with different "IDs". We use a button for the navigation menu so that the navigation menu is properly displayed on the small screen.
 
@@ -44,7 +57,7 @@ In the footer we have a contact button; when we click this button, a modal will 
 
 **- Smooth Scrolling**
 
-To the body section we add **data-spy="scroll"**, **data-target="main-nav"** and **id="home"**. After that, we use javascript to init scrollspy for smooth scrolling.
+To the body section we add **data-spy="scroll"**, **data-target="main-nav"** and **id="home"**. After that, we use JQury to init scrollspy for smooth scrolling.
 
 
 
