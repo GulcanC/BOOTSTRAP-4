@@ -1,16 +1,16 @@
 # UDEMY COURSE - BOOTSTRAP PROJECT 2
 
 ## Go to the Project Page
-❗ https://gulcanc.github.io/BOOTSTRAP-4-PAGE/
+✳️   https://gulcanc.github.io/BOOTSTRAP-4-PAGE/
 
 ## The Purpose of the Project
-💦 Learning and creating high quality Bootstrap 4 theme 
+🌸 Learning and creating high quality Bootstrap 4 theme 
 
-💦 Learning the Bootstrap 4 utilities, classes, components & JS widgets using a custom sandbox environment
+🌸 Learning the Bootstrap 4 utilities, classes, components & JS widgets using a custom sandbox environment
 
-💦 Learn semantic HTML5 & modern CSS3 techniques
+🌸 Learn semantic HTML5 & modern CSS3 techniques
 
-💦 Using CSS Preprocessor Program "Sass", "Syntactically Awesom Style Sheets"
+🌸 Using CSS Preprocessor Program "Sass", "Syntactically Awesom Style Sheets"
 
 ## About the Project
 
