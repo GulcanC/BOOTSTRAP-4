@@ -19,21 +19,11 @@ Moreover, in this project we used Sass, CSS precompiler, that allows us to do th
 Last important thing is that we used an application **Koala** for compaling our Sass; Koala is a GUI application for Less, Sass, Compass and CoffeeScript compilation, to help web developers to use them more efficiently.
 ## Techniques Used 
 
-I started to the project by installing the application Koala, and downloading Bootstrap. Bootstrap source files have all scss files as well. I take all bootstrap scss files and add them inside my own scss folder. Next, I add my project to tha Koala App, here I decide what I want to compile and where it should go. I want to compile **bootstrap.scss** file and **style.scss** file inside **scss** folder. When I wright click on the bootstrap.scss file and style.scss file, I see **set output path**, I click that and I want to set the output to go to the regular **css folder**. To this folder I add **bootstrap.css** and **style.css** files. If they are already exist I have to replace them. Thus, these two sass files will get compiled to **bootstrap.css** and **style.css**. When we manually compile this files, I will see my bootstrap.css and style.css files inside css folder. When I open the folder in VSCode, I see **_variables.scss** file where I can make all the cahnges to customize my project. 
+I started to the project by installing the application Koala, and downloading Bootstrap. Bootstrap source files have all scss files as well. I take all bootstrap scss files and add them inside my own scss folder. Next, I add my project to tha Koala App, here I decide what I want to compile and where it should go. I want to compile **bootstrap.scss** file and **style.scss** file inside **scss** folder. When I right click on the bootstrap.scss file and style.scss file, I see **set output path**, I click that and I want to set the output to go to the regular **css folder**. To this folder I add **bootstrap.css** and **style.css** files. If they are already exist I have to replace them. Thus, these two sass files will get compiled to **bootstrap.css** and **style.css**. When we manually compile this files, I will see my bootstrap.css and style.css files inside css folder. 
 
+When I open the folder in VSCode, I see **_variables.scss** file where I can make all the cahnges to customize my bootstrap project. 
 
-
-
-
-
-
-
-
-
-
-
-
-We add a navigation menu to the navigation bar using an unordered list of clickable list items with different "IDs". We use a button for the navigation menu so that the navigation menu is properly displayed on the small screen.
+For starting to the project, first, I add a navigation menu and a logo to the navigation bar using an unordered list of clickable list items with different "IDs". I use a button for the navigation menu so that the navigation menu is properly displayed on the small screen.
 
        <button
           class="navbar-toggler"
@@ -41,24 +31,12 @@ We add a navigation menu to the navigation bar using an unordered list of clicka
           data-target="#navbarCollapse" >
           <span class="navbar-toggler-icon"></span>
         </button>
+        
 
-**- Home Section** 
+**box-shadow**:Horizontal offset | Vertical offset | Blur | Color  
+**box-shadow**:2px 2px 5px $color-primary;
 
-At the show case area we use flex box to align the texts and the icons. **d-flex** is used for the parent elements and it automatically aligns items horizantally. **align-self-start** and **align-self-end** are used for the child elements to individually change their alignment on the cross axis. For the texts, we use **col-lg-8** class name for large screens, while for small screens we use **d-none** which means we do not want the texts are dipslayed in small screens. For this section, we use dark overlay its **position is absolute** that means we want it basically covers the entire home section. 
 
-For form we use **card-form, form-group, form-control** class names. 
-
-**- Explore, Create and Share Sections** 
-
-These three sections have a header section that contains a title, a paragraph and a button. Under the header section, they have a container that includes 6 columns div **col-md-6** for medium screens, under below the medium screens, these two div elements stack on top of each other. Here, first div is the image and we use **img-fluid** class so that it fits inside the container for different sizes.  The second div contains a title, a paragraph and the icons with texts. 
-
-**- Footer Section**
-
-In the footer we have a contact button; when we click this button, a modal will be opened. Here we use **data-toggle**, **data-target** class names. We have to add the content of this modal outside of the footer. Here we add a button to close the modal and we use the property/value pairs **class="close"**, **data-dismiss="modal"**.
-
-**- Smooth Scrolling**
-
-To the body section we add **data-spy="scroll"**, **data-target="main-nav"** and **id="home"**. After that, we use JQury to init scrollspy for smooth scrolling.
 
 
 
