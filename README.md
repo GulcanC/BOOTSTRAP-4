@@ -44,23 +44,23 @@ For starting to the project, first, I add a navigation menu and a logo to the na
 
 <details>
  <summary>See the code for accordions</summary>
-       '''
-<div id="accordion">
-  <div class="card">
-    <div class="card-header">
-      <h5>
-        <div href="#collapse1" data-toggle="collapse" data-parent="#accordion">
-          <i class="fas fa-arrow-circle-down"></i>Get inspired
-        </div>
-      </h5>
-    </div>
-    <div id="collapse1" class="collapse show">
-      <div class="card-body">Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-      </div>
-    </div>
-  </div>
-</div>
-       '''
+     
+              <div id="accordion">
+                <div class="card">
+                  <div class="card-header">
+                    <h5>
+                      <div href="#collapse1" data-toggle="collapse" data-parent="#accordion">
+                        <i class="fas fa-arrow-circle-down"></i>Get inspired
+                      </div>
+                    </h5>
+                  </div>
+                  <div id="collapse1" class="collapse show">
+                    <div class="card-body">Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+                    </div>
+                  </div>
+                </div>
+              </div>
+       
 </details>
 
 
