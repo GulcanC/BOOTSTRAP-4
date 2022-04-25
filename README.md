@@ -40,7 +40,23 @@ For starting to the project, first, I add a navigation menu and a logo to the na
 **position:relative**  The element is positioned relative to its normal position, so "left:20px" adds 20 pixels to the element's LEFT position.
 **position:absolute**  The element is positioned relative to its first positioned ancestor element.
 
+**Accordion**
 
+<div id="accordion">
+  <div class="card">
+    <div class="card-header">
+      <h5>
+        <div href="#collapse1" data-toggle="collapse" data-parent="#accordion">
+          <i class="fas fa-arrow-circle-down"></i>Get inspired
+        </div>
+      </h5>
+    </div>
+    <div id="collapse1" class="collapse show">
+      <div class="card-body">Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
