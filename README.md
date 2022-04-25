@@ -63,7 +63,13 @@ For starting to the project, first, I add a navigation menu and a logo to the na
        
 </details>
 
+**Responsive images**
 
+class="img-fluid"
+
+max-width="100%"
+
+height="auto"
 
 
 
