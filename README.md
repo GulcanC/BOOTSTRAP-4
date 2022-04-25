@@ -72,6 +72,19 @@ max-width="100%"
 
 height="auto"
 
+:pushpin: **Form in Bootstrap**
+
+<form>
+  <div class="input-group input-group-lg">
+    <div class="input-group-prepend">
+      <span class="input-group-text">
+        <i class="fas fa-user"></i>
+      </span>
+    </div>
+    <input type="text" class="form-control" placeholder="Name">
+  </div>
+</form>
+
 
 
 
