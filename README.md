@@ -34,13 +34,13 @@ For starting to the project, first, I add a navigation menu and a logo to the na
         
  Navbars require a wrapping .navbar with **.navbar-expand{-sm|-md|-lg|-xl}** for responsive collapsing and color scheme classes.
         
-:pen: **box-shadow**:Horizontal offset | Vertical offset | Blur | Color  
-:pen: **box-shadow**:2px 2px 5px $color-primary;
+:pushpin: **box-shadow**:Horizontal offset | Vertical offset | Blur | Color  
+:pushpin: **box-shadow**:2px 2px 5px $color-primary;
 
-:pen: **position:relative**  The element is positioned relative to its normal position, so "left:20px" adds 20 pixels to the element's LEFT position.
-:pen: **position:absolute**  The element is positioned relative to its first positioned ancestor element.
+:pushpin: **position:relative**  The element is positioned relative to its normal position, so "left:20px" adds 20 pixels to the element's LEFT position.
+:pushpin: **position:absolute**  The element is positioned relative to its first positioned ancestor element.
 
-:pen: **Accordion**
+:pushpin: **Accordion**
 
 <details>
  <summary>See the code for accordions</summary>
@@ -63,7 +63,7 @@ For starting to the project, first, I add a navigation menu and a logo to the na
        
 </details>
 
-:pen: **Responsive images**
+:pushpin: **Responsive images**
 
 class="img-fluid"
 
