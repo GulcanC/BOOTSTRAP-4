@@ -44,6 +44,7 @@ For starting to the project, first, I add a navigation menu and a logo to the na
 
 <details>
  <summary>See the code for accordions</summary>
+       '''
 <div id="accordion">
   <div class="card">
     <div class="card-header">
@@ -59,6 +60,7 @@ For starting to the project, first, I add a navigation menu and a logo to the na
     </div>
   </div>
 </div>
+       '''
 </details>
 
 
