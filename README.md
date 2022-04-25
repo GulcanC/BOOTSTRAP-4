@@ -38,6 +38,7 @@ For starting to the project, first, I add a navigation menu and a logo to the na
 :pushpin: **box-shadow**:2px 2px 5px $color-primary;
 
 :pushpin: **position:relative**  The element is positioned relative to its normal position, so "left:20px" adds 20 pixels to the element's LEFT position.
+
 :pushpin: **position:absolute**  The element is positioned relative to its first positioned ancestor element.
 
 :pushpin: **Accordion**
